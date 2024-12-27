@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there 👋 I'm cryptobox
 
-<!--
-**crypt0box/crypt0box** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
+I'm a Frontend Engineer with a broad interest in all things web-related.I write about tech and development on my [blog](https://cryptobox.blog/).
 
-Here are some ideas to get you started:
+### What I Love
+- 🥰 Enjoying life
+- 📖 Reading
+- 🏂 Snowboarding
+- ⛰️ Hiking
+- 🎮 Gaming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Recent Activities
+- 🎯 Contributed to [react-hook-form](https://github.com/react-hook-form/react-hook-form/pull/12295) - Fixed a bug related to date validation
+- 📚 Published a technical doujinshi (self-published book) at [Tech Book Fest](https://techbookfest.org/product/37NM6Jnb5Hz0jy0fhXdvh6?productVariantID=tzjXA2Z9EJdjnerXK34zrR)
+- 💻 Built [Shotottahon.com](https://shotottahon-dotcom.vercel.app/) - A personal project for book lovers
+- ✍️ Started [my tech blog](https://cryptobox.blog) using Astro
+
+### Contact
+- [@cryptoooon](https://x.com/cryptooooon)
